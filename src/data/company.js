@@ -11,12 +11,10 @@ export const companyData = {
   
   // EDIT COMPANY CONTACT INFORMATION HERE
   contact: {
-    phone: "+1 (800) 555-0198",
-    phoneDisplay: "+1 (800) 555-0198",
-    email: "info@pharmafirstenterprises.com",
-    supportEmail: "support@pharmafirstenterprises.com",
-    ordersEmail: "orders@pharmafirstenterprises.com",
-    address: "Healthcare Innovation District, Suite 500, Metro Logistics Hub",
+    phone: "03338111992",
+    phoneDisplay: "03338111992",
+    email: "fahadfozan1122@gmail.com",
+    address: "On Industrial Estate Road Peshawar",
     cityStateZip: "Metropolis, NY 10001",
     businessHours: "Monday – Saturday: 8:00 AM – 8:00 PM EST",
     emergencyDistribution: "24/7 Priority Hospital & Pharmacy Dispatch Available"
@@ -57,3 +55,4 @@ export const companyData = {
   // REGULATORY & SAFETY DISCLAIMER
   legalDisclaimer: "Pharma First Enterprises is an authorized pharmaceutical distributor. All medical and prescription items require regulatory verification where applicable by law. Product information will be provided by Pharma First Enterprises. Always consult your licensed medical practitioner for clinical advice."
 };
+
