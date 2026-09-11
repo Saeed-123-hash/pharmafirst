@@ -1,4 +1,4 @@
-/ =========================================================================
+// =========================================================================
 // PHARMA FIRST ENTERPRISES - CATEGORIES DATA
 // EDIT CATEGORIES HERE
 // Add, remove, or modify categories freely without breaking UI components
