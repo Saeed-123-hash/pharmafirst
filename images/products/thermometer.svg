@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="th-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#th-bg)" rx="20"/>
+  <g>
+    <!-- Ergonomic Thermometer Body -->
+    <path d="M150 90h80c10 0 20 10 20 20v50c0 15-10 25-20 30l-10 130h-40l-10-130c-10-5-20-15-20-30v-50c0-10 10-20 20-20z" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <!-- Sensor Tip -->
+    <rect x="165" y="70" width="50" height="25" rx="6" fill="#0284c7"/>
+    <!-- Display -->
+    <rect x="160" y="115" width="60" height="40" rx="8" fill="#10b981"/>
+    <text x="190" y="140" fill="white" font-family="monospace" font-weight="bold" font-size="16" text-anchor="middle">36.6°C</text>
+    <!-- Button -->
+    <circle cx="190" cy="180" r="10" fill="#0284c7"/>
+    <text x="190" y="240" fill="#64748b" font-family="sans-serif" font-size="10" text-anchor="middle">INFRARED</text>
+  </g>
+</svg>
